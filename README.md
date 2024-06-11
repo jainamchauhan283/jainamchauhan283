@@ -23,9 +23,8 @@ Fields_of_interests:
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <div style="width: 100%; display: flex; justify-content: space-between; flex-wrap: wrap">
-   https://skillicons.dev/icons?i=flutter
    <div>
-       <h2>Front-end</h2>
+      <h2>Front-end</h2>
       <div>
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/>
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/>
@@ -34,13 +33,11 @@ Fields_of_interests:
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" />
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40" />
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="40" height="40" />
-         <img src="" alt="" width="40" height="40" />
       </div>
       <div>
          <h2>Back-end</h2>
          <div>
-             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-             <img src="" alt="" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
          </div>
       </div>
       <div>
@@ -49,14 +46,12 @@ Fields_of_interests:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="40" />
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" />
-             <img src="" alt="tailwind" width="40" height="40" />
          </div>
       </div>
       <div>
          <h2>DBMS</h2>
          <div>
              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-             <img src="" alt="tailwind" width="40" height="40" />
          </div>
       </div>
       <div>
@@ -82,3 +77,4 @@ Fields_of_interests:
     <img height="180em" align="center"
       src="https://github-readme-stats.vercel.app/api?username=jainamchauhan283&show_icons=true" />
 </div>
+<!-- <img src="" alt="" width="40" height="40" /> -->
