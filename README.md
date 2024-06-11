@@ -33,6 +33,7 @@ Fields_of_interests:
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind" width="40" height="40" />
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" />
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" />
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40" />
          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="40" height="40" />
       </div>
 <!--       <div>
@@ -50,17 +51,22 @@ Fields_of_interests:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" />
          </div>
       </div>
-<!--       <div>
+      <div>
          <h2>DBMS</h2>
          <div>
-             <img src="" alt="tailwind" width="40" height="40" />
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+<!--              <img src="" alt="tailwind" width="40" height="40" /> -->
          </div>
-      </div> -->
+      </div>
       <div>
          <h2>Software Tools & Services</h2>
          <div>
 <!--             <img src="" alt="tailwind" width="40" height="40" /> -->
              <img src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" alt="figma" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+
          </div>
       </div>
    </div>
